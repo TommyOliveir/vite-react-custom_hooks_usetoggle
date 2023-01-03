@@ -5,6 +5,7 @@ import Favorite from "./Favorite"
 function App() {
     return (
         <div>
+            <h2>customHooks - usetoggle</h2>
             <Menu />
             <hr />
             <Favorite />
